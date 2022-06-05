@@ -1,4 +1,4 @@
-// First Programm ;)
+// First Program ;)
 
 #include <stdio.h>
 
