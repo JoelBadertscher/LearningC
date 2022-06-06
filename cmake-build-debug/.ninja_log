@@ -1,0 +1,9 @@
+# ninja log v5
+1	221	6761509459176801	CMakeFiles/LearningC.dir/BookExamples/Chapter01/celsFahr.c.obj	d1aa2db6833e6382
+28	224	6761509459176801	CMakeFiles/LearningC.dir/BookExamples/Chapter01/helloWorld.c.obj	d291a0a31d552c03
+16	226	6761509459176801	CMakeFiles/LearningC.dir/BookExamples/Chapter01/Excersise1-2.c.obj	9568751a8b7b8c0b
+38	278	6761509459801734	CMakeFiles/LearningC.dir/fs19_4bb2_p2/aufgabe8_vendors_alternative.c.obj	62c43a5636911dd9
+83	300	6761509460016593	CMakeFiles/LearningC.dir/fs19_4bb2_p2/aufgabe8_vendors.c.obj	1336a2ce8ae78b1d
+68	301	6761509460016593	CMakeFiles/LearningC.dir/fs19_4bb2_p2/aufgabe2_stackmutex.c.obj	50080105d7250771
+33	235	6761509587967347	CMakeFiles/LearningC.dir/uebungen/parking.c.obj	97c6fc3792f9be10
+41	237	6761509587977126	CMakeFiles/LearningC.dir/uebungen/time.c.obj	1cd07cb6cd48caf7
